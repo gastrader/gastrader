@@ -20,7 +20,8 @@ I am a software developer with expertise in mechatronics engineering and a passi
 <br />
 
 ### 📫 Connect with me:
-<img align="left" alt="twitter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> GasTrading
+
+<img align="left" alt="twitter" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" href="twitter.com/gastrading"  /> GasTrading
 
 
  
