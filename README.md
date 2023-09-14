@@ -5,10 +5,10 @@ I am a software developer with expertise in mechatronics engineering and a passi
 
 ---
 
-###🧰Languages & Tools
+### 🧰Languages & Tools
 
 <img align="left" alt="go" width="30px" style="pardding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-
+<br />
 #
 - 📫 How to reach me: ...
  
