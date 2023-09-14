@@ -19,5 +19,11 @@ I am a software developer with expertise in mechatronics engineering and a passi
 
 <br />
 
-# 📫 How to reach me: ...
+### 📫 Connect with me:
+[![website](./img/twitter-light.svg)](https://twitter.com/GasTrading#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/GasTrading#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/)
+&nbsp;&nbsp;
  
