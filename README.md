@@ -2,12 +2,10 @@
 **`Engineer by ☀️, Developer by 🌙`**
 
 I am a software developer with expertise in mechatronics engineering and a passion for technology. I specialize in developing high-performance websites and software that leverage the power of AI technology. I am dedicated to using software in order to make a positive impact.
-<div alight="center" alt="gif">
+
+<div align="center" alt="gif">
  ![gophercises_jumping](https://github.com/gastrader/gastrader/assets/37260212/a7fca9a5-1ba3-42da-bedb-e12ecb929d18)
 </div>
-
-
-
 ---
 
 ### 🧰 Languages & Tools
@@ -24,9 +22,6 @@ I am a software developer with expertise in mechatronics engineering and a passi
 
 <br />
 
-### 📫 Connect with me:
-
-<img align="left" alt="twitter" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" href="twitter.com/gastrading"  /> GasTrading
-
 
  
+
