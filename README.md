@@ -6,6 +6,7 @@ I am a software developer with expertise in mechatronics engineering and a passi
 <div align="center" alt="gif">
  <img src="https://github.com/gastrader/gastrader/assets/37260212/a7fca9a5-1ba3-42da-bedb-e12ecb929d18" />
 </div>
+
 ---
 
 ### 🧰 Languages & Tools
