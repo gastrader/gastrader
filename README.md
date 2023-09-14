@@ -1,4 +1,4 @@
-# [image](https://github.com/gastrader/gastrader/assets/37260212/5b3c8ea1-6878-4668-8a0b-5956d2b8c831) Gas Trader
+ # ![gopher](https://github.com/gastrader/gastrader/assets/37260212/ed2c2208-baa9-42dc-ad82-ede6ddae7c02) Gas Trader
 
 <!--
 **gastrader/gastrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
