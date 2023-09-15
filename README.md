@@ -10,7 +10,7 @@ I am a software developer with expertise in mechatronics engineering and a passi
 ---
 
 ### 🧰 Languages & Tools
-#
+
 <img align="left" alt="go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="ts" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -23,5 +23,5 @@ I am a software developer with expertise in mechatronics engineering and a passi
 
 <br />
 
-
+#
 
