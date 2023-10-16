@@ -24,5 +24,6 @@ I am a software developer with expertise in mechatronics engineering and a passi
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastrader)](https://github.com/gastrader/github-readme-stats)
 #
 
