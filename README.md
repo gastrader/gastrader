@@ -22,5 +22,5 @@ I am a software developer with expertise in mechatronics engineering and a passi
 <img align="left" alt="ts" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <br >
-# 
+
 
