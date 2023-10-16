@@ -21,8 +21,7 @@ I am a software developer with expertise in mechatronics engineering and a passi
 <img align="left" alt="html" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="ts" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-
-<br />
+<br >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastrader)](https://github.com/gastrader/github-readme-stats)
 #
