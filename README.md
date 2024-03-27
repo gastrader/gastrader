@@ -7,7 +7,6 @@ I am a software developer with expertise in mechatronics engineering and a passi
  <img src="https://github.com/gastrader/gastrader/assets/37260212/a7fca9a5-1ba3-42da-bedb-e12ecb929d18" />
 </div>
 
----
 
 ## 🛠️ My Tools
 
