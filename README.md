@@ -1,4 +1,3 @@
- # 👨‍🚀 Gas Trader 
 **`Engineer by ☀️, Developer by 🌑`**
 
 I am a software developer with expertise in mechatronics engineering and a passion for technology. I specialize in developing high-performance programs and software that leverages the power of AI technology. I am dedicated to using software in order to make a positive impact.
